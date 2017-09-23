@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Host: gideons.ga
+
+Sitemap: http://gideons.ga/sitemap.xml
