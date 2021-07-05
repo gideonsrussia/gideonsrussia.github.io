@@ -1,5 +1,5 @@
 User-agent: *
 Disallow:
-Host: gideons.ga
+Host: gideonsrussia.github.io
 
-Sitemap: http://gideons.ga/sitemap.xml
+Sitemap: http://gideonsrussia.github.io/sitemap.xml
