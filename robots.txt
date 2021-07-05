@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Host: gideonsrussia.github.io
 
-Sitemap: http://gideonsrussia.github.io/sitemap.xml
+Sitemap: https://gideonsrussia.github.io/sitemap.xml
